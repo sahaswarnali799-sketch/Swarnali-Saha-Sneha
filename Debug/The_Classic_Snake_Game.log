@@ -1,0 +1,16 @@
+﻿Build started 4/15/2026 1:19:48 AM.
+     1>Project "C:\Sd_lab\The_Classic_Snake_Game\The_Classic_Snake_Game\The_Classic_Snake_Game.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
+         iMain.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Sd_lab\The_Classic_Snake_Game\Debug\The_Classic_Snake_Game.exe" /INCREMENTAL /NOLOGO glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Sd_lab\The_Classic_Snake_Game\Debug\The_Classic_Snake_Game.pdb" /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Sd_lab\The_Classic_Snake_Game\Debug\The_Classic_Snake_Game.lib" /MACHINE:X86 Debug\iMain.obj
+     1>LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     1>iMain.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+         LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+         The_Classic_Snake_Game.vcxproj -> C:\Sd_lab\The_Classic_Snake_Game\Debug\The_Classic_Snake_Game.exe
+     1>Done Building Project "C:\Sd_lab\The_Classic_Snake_Game\The_Classic_Snake_Game\The_Classic_Snake_Game.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.02
